@@ -6,7 +6,7 @@
 
 ### 🚀 Sobre mí
 
-* 💻 Desarrolladora con interés en **Frontend**, **Backend** y **Móvil**
+* 💻 Desarrolladora con interés en **Frontend** y **Backend**
 * 📱 Experiencia básica en **desarrollo móvil**
 * 🧠 Interés en algoritmos, análisis de datos e inteligencia artificial
 * 🤝 Abierta a colaborar en proyectos tecnológicos y de impacto social
