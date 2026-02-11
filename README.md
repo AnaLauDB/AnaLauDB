@@ -50,7 +50,31 @@
 
 ---
 
-### 📌 Mis estadisticas
-![Ana Lau GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaLauDB&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+## 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AnaLauDB&theme=radical&hide_border=true" alt="Streak Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaLauDB&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLauDB&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Langs" />
+  
+</div>
+
+<details>
+  <summary><b>Extras (trophies y gráfico de actividad)</b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnaLauDB&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+    <br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaLauDB&theme=radical" alt="Activity Graph" />
+  </div>
+</details>
+
+---
 
 ✨ *Perfil en constante crecimiento, con pasión por aprender, crear soluciones tecnológicas y generar impacto positivo.*
