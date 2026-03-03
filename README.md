@@ -47,23 +47,7 @@
 ### 📫 Contacto
 
 * 💼 GitHub: [github.com/AnaLauDB](https://github.com/AnaLauDB)
-
----
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnaLauDB&theme=radical&hide_border=true" alt="Streak Stats" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaLauDB&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLauDB&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Langs" />
-  
-</div>
+* 📧 Correo: [analau3217@gmail.com](mailto:analau3217@gmail.com)
 
 ---
 
