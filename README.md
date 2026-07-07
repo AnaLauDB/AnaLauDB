@@ -1,6 +1,6 @@
 ## Hola a tod@s 👋
 
-¡Hola! Soy **Ana Laura**, egresada de la **Universidad Autónoma Metropolitana – Unidad Iztapalapa** 🎓. Tengo **23 años** y me apasiona la **tecnología**, el **desarrollo web** y la **inteligencia artificial**.
+¡Hola! Soy **Ana Laura**, egresada de la **Universidad Autónoma Metropolitana – Unidad Iztapalapa** 🎓. Tengo **24 años** y me apasiona la **tecnología**, el **desarrollo web** y la **inteligencia artificial**.
 
 ---
 
@@ -23,7 +23,7 @@
 ### 🛠️ Tecnologías y herramientas
 
 * **Lenguajes de programación:** Java, Python, JavaScript, SQL (MySQL), CSS
-* **Desarrollo web:** HTML, CSS, JavaScript
+* **Desarrollo web:** HTML, CSS, JavaScript, React, TypeScript
 * **Bases de datos:** MySQL
 * **Inteligencia Artificial:** fundamentos de algoritmos de IA
 * **Herramientas:** Git, GitHub, Linux
