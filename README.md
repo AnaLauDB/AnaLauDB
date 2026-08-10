@@ -64,17 +64,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnaLauDB&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Langs" />
   
 </div>
-
-<details>
-  <summary><b>Extras (trophies y gráfico de actividad)</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnaLauDB&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaLauDB&theme=radical" alt="Activity Graph" />
-  </div>
-</details>
-
 ---
 
 ✨ *Perfil en constante crecimiento, con pasión por aprender, crear soluciones tecnológicas y generar impacto positivo.*
