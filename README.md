@@ -1,6 +1,6 @@
 ## Hola a tod@s 👋
 
-¡Hola! Soy **Ana Laura**, egresada de la **Universidad Autónoma Metropolitana – Unidad Iztapalapa** 🎓. Tengo **24 años** y me apasiona la **tecnología**, el **desarrollo web** y la **inteligencia artificial**.
+¡Hola! Soy **Ana Laura**, Licenciada en Computación por la **Universidad Autónoma Metropolitana – Unidad Iztapalapa** 🎓. Tengo **24 años** y me apasiona la **tecnología**, el **desarrollo web** y la **inteligencia artificial**.
 
 ---
 
@@ -56,12 +56,6 @@
   <img src="https://streak-stats.demolab.com?user=AnaLauDB&theme=radical&hide_border=true" alt="Streak Stats" />
 
   <br/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnaLauDB&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-
-  <br/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnaLauDB&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Langs" />
   
 </div>
 ---
