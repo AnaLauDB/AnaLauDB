@@ -29,25 +29,45 @@
 * **Herramientas:** Git, GitHub, Linux
 
 ---
+🎨 UX Design
 
-### 📜 Certificaciones
+También cuento con formación en UX Design, donde adquirí conocimientos sobre diseño centrado en el usuario, investigación, ideación, prototipado y evaluación de experiencias digitales.
 
-* ✅ **freeCodeCamp** – Algoritmos y Estructuras de Datos en JavaScript (V8)
-* ✅ **Código Facilito** – Certificación en Desarrollo de Apps de Inteligencia Artificial con **C# y Azure**
+📜 Google UX Design Professional Certificate — Coursera
+
+🔗 Ver certificado 
 
 ---
 
-### 📊 Experiencia académica
 
-* 📂 Proyectos universitarios enfocados en **bases de datos**, **algoritmos** e **inteligencia artificial**
-* 🧪 Aplicación de lógica, estructuras de datos y análisis de problemas reales
+### 📜 Certificaciones
 
+* 🏆**freeCodeCamp** – Algoritmos y Estructuras de Datos en JavaScript (V8)
+* 🏆 **Código Facilito** – Certificación en Desarrollo de Apps de Inteligencia Artificial con **C# y Azure**
+* 🏆 **Coursera** - Google UX Design Professional Certificate 
+
+---
+
+### Actualmente estoy ampliando mis conocimientos en tecnologías relacionadas con la nube y la Inteligencia Artificial:
+
+☁️ Google Cloud
+
+🤖 IA Generativa
+
+📚 Buenas prácticas de desarrollo de software
+
+🎨 Diseño y experiencia de usuario
+
+Mi objetivo es seguir fortaleciendo mi perfil como desarrolladora y aprender a integrar estas tecnologías en proyectos reales.
 ---
 
 ### 📫 Contacto
 
-* 💼 GitHub: [github.com/AnaLauDB](https://github.com/AnaLauDB)
-*  📧 Correo: [analau3217@gmail.com](mailto:analau3217@gmail.com)
+💼 **GitHub:**: [github.com/AnaLauDB](https://github.com/AnaLauDB)
+📧 **Correo:**: [analau3217@gmail.com](mailto:analau3217@gmail.com)
+🔗 **LinkedIn:** [Ana Laura](https://www.linkedin.com/in/ana-laura-db)
+
+✨ *Always learning, building and exploring new technologies.*
 
 ---
 
