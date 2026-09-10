@@ -33,12 +33,11 @@
 
 También cuento con formación en UX Design, donde adquirí conocimientos sobre diseño centrado en el usuario, investigación, ideación, prototipado y evaluación de experiencias digitales.
 
-📜 Google UX Design Professional Certificate — Coursera
+📜 **Google UX Design Professional Certificate — Coursera**
 
-🔗 Ver certificado 
+🔗 [Ver credencial](https://www.coursera.org/account/accomplishments/specialization/certificate/AOC1LRPXMDYP)
 
 ---
-
 
 ### 📜 Certificaciones
 
@@ -64,7 +63,9 @@ Mi objetivo es seguir fortaleciendo mi perfil como desarrolladora y aprender a i
 ### 📫 Contacto
 
 💼 **GitHub:**: [github.com/AnaLauDB](https://github.com/AnaLauDB)
+
 📧 **Correo:**: [analau3217@gmail.com](mailto:analau3217@gmail.com)
+
 🔗 **LinkedIn:** [Ana Laura](https://www.linkedin.com/in/ana-laura-db)
 
 ✨ *Always learning, building and exploring new technologies.*
